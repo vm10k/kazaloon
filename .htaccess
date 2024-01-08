@@ -1,0 +1,6 @@
+# error redirect
+ErrorDocument 400 http://arthurmosa.a0001.net/
+ErrorDocument 401 http://arthurmosa.a0001.net/
+ErrorDocument 403 http://arthurmosa.a0001.net/
+ErrorDocument 404 http://arthurmosa.a0001.net/
+ErrorDocument 503 http://arthurmosa.a0001.net/
